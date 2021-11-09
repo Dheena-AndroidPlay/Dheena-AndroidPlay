@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dheena-AndroidPlay
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Kotlin , Android Studio
+- 🌱 I’m currently learning Kotlin , Android Studio , Dart , Flutter , Tensorflow , Google Cloud
 - 💞️ I’m looking to collaborate on Android/AI Communities
 - 📫 How to reach me dheenandroidplay@outlook.com
 
